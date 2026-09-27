@@ -1,0 +1,9 @@
+body{
+  background-color:black;
+  color:white;
+}
+p{
+  font-family: Serif;
+  grid-column-start: center;
+}
+
